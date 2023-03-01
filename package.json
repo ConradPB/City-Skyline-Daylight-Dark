@@ -1,0 +1,23 @@
+{
+  "name": "city-skyline-sunset",
+  "version": "1.0.0",
+  "description": "city skyline with the sunset",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G-rizz/City-Skyline-Sunset.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS"
+  ],
+  "author": "Conrad P B",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/G-rizz/City-Skyline-Sunset/issues"
+  },
+  "homepage": "https://github.com/G-rizz/City-Skyline-Sunset#readme"
+}
