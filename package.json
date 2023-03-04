@@ -1,7 +1,7 @@
 {
-  "name": "city-skyline-sunset",
+  "name": "City-Skyline-Daylight-Dark",
   "version": "1.0.0",
-  "description": "city skyline with the sunset",
+  "description": "city skyline with the sun as a backdrop to darkened buildings",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

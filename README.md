@@ -1,2 +1,2 @@
-# City-Skyline-Daylight-Dark
-A city skyline with the in the daytime with darkened buildings. transitions from daytime to to daylight with darker buildings
+# City-Skyline-Sunset
+A city skyline with the sunset
