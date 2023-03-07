@@ -1,2 +1,2 @@
 # City-Skyline-Daylight-Dark
-A city skyline in the day time with a sunny sky as a back drop to darkened buildings.
+A city skyline with the in the daytime with darkened buildings. transitions from daytime to to daylight with darker buildings
