@@ -1,5 +1,5 @@
 # City-Skyline-Dalight-Dark
-A city skyline with the sunset
+A city skyline with the in the daytime with darkened buildings
 
 This project is a simple webpage that displays a city skyline using HTML and CSS. The webpage consists of two sections - the background buildings and the foreground buildings. The background buildings are displayed in the back of the webpage, while the foreground buildings are displayed in the front.
 
